@@ -1,0 +1,2 @@
+2021-12-06 21:37:00 [pool-2-thread-6] [run] [33]
+            INFO  com.epam.thread.entity.Customer - Customer 6 (3 people) returned Hookah 2

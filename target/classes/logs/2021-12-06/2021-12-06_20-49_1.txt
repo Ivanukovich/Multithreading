@@ -1,0 +1,14 @@
+2021-12-06 20:49:11 [pool-2-thread-1] [returnHookah] [84]
+            INFO  com.epam.thread.entity.HookahBar - Customer 4 was moved inside
+2021-12-06 20:49:11 [pool-2-thread-1] [returnHookah] [84]
+            INFO  com.epam.thread.entity.HookahBar - Customer 5 was moved inside
+2021-12-06 20:49:11 [pool-2-thread-1] [returnHookah] [84]
+            INFO  com.epam.thread.entity.HookahBar - Customer 6 was moved inside
+2021-12-06 20:49:11 [pool-2-thread-3] [run] [32]
+            INFO  com.epam.thread.entity.Customer - Customer 3 (3 people) got Hookah 1
+2021-12-06 20:49:11 [pool-2-thread-4] [run] [32]
+            INFO  com.epam.thread.entity.Customer - Customer 4 (3 people) got Hookah 2
+2021-12-06 20:49:11 [pool-2-thread-2] [run] [37]
+            INFO  com.epam.thread.entity.Customer - Customer 2 returned Hookah 2
+2021-12-06 20:49:11 [pool-2-thread-1] [run] [37]
+            INFO  com.epam.thread.entity.Customer - Customer 1 returned Hookah 1

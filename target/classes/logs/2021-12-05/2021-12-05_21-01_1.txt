@@ -1,0 +1,12 @@
+2021-12-05 21:01:02 [pool-2-thread-4] [run] [34]
+            INFO  com.epam.thread.entity.Customer - Customer 4 returned hookah 2
+2021-12-05 21:01:02 [pool-2-thread-5] [run] [29]
+            INFO  com.epam.thread.entity.Customer - Customer 5 got hookah 2
+2021-12-05 21:01:07 [pool-2-thread-5] [run] [34]
+            INFO  com.epam.thread.entity.Customer - Customer 5 returned hookah 2
+2021-12-05 21:01:07 [pool-2-thread-6] [run] [29]
+            INFO  com.epam.thread.entity.Customer - Customer 6 got hookah 2
+2021-12-05 21:01:12 [pool-2-thread-3] [run] [34]
+            INFO  com.epam.thread.entity.Customer - Customer 3 returned hookah 1
+2021-12-05 21:01:12 [pool-2-thread-6] [run] [34]
+            INFO  com.epam.thread.entity.Customer - Customer 6 returned hookah 2

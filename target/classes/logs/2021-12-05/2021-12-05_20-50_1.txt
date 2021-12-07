@@ -1,0 +1,4 @@
+2021-12-05 20:50:15 [pool-2-thread-1] [run] [29]
+            INFO  com.epam.thread.entity.Customer - Customer 1 got hookah 1
+2021-12-05 20:50:20 [pool-2-thread-1] [run] [34]
+            INFO  com.epam.thread.entity.Customer - Customer 1 returned hookah 1

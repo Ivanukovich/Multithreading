@@ -1,0 +1,18 @@
+2021-12-06 21:30:00 [pool-2-thread-1] [run] [33]
+            INFO  com.epam.thread.entity.Customer - Customer 1 returned Hookah 2
+2021-12-06 21:30:10 [pool-2-thread-5] [run] [33]
+            INFO  com.epam.thread.entity.Customer - Customer 5 (3 people) returned Hookah 1
+2021-12-06 21:30:58 [pool-2-thread-1] [run] [28]
+            INFO  com.epam.thread.entity.Customer - Customer 1 (2 people) got Hookah 1
+2021-12-06 21:30:58 [pool-2-thread-3] [getHookah] [54]
+            INFO  com.epam.thread.entity.HookahBar - Customer 3 is waiting inside
+2021-12-06 21:30:58 [pool-2-thread-2] [run] [28]
+            INFO  com.epam.thread.entity.Customer - Customer 2 got Hookah 2
+2021-12-06 21:30:58 [pool-2-thread-4] [getHookah] [54]
+            INFO  com.epam.thread.entity.HookahBar - Customer 4 (3 people) is waiting inside
+2021-12-06 21:30:58 [pool-2-thread-5] [getHookah] [54]
+            INFO  com.epam.thread.entity.HookahBar - Customer 5 is waiting inside
+2021-12-06 21:30:58 [pool-2-thread-2] [run] [33]
+            INFO  com.epam.thread.entity.Customer - Customer 2 returned Hookah 2
+2021-12-06 21:30:58 [pool-2-thread-3] [run] [28]
+            INFO  com.epam.thread.entity.Customer - Customer 3 got Hookah 2
